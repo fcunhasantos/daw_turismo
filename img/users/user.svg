@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="177" height="236" viewBox="0 0 177 236" preserveAspectRatio="none">
+    <defs>
+        <style type="text/css"><![CDATA[#holder_14e65ff7a4d text { fill:#AAAAAA;font-weight:bold;font-family:Arial, Helvetica, Open Sans, sans-serif, monospace;font-size:10pt } ]]></style>
+    </defs>
+    <g id="holder_14e65ff7a4d">
+        <rect width="177" height="236" fill="#EEEEEE"/>
+        <g>
+            <text x="60" y="115">177x236</text>
+        </g>
+    </g>
+</svg>
