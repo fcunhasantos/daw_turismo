@@ -3,11 +3,11 @@ class ConexaoBD {
 	public function getConexao() {
 		try {
 			
-			$servidor = 'localhost';
+			$servidor = 'us-cdbr-azure-west-c.cloudapp.net';
 			$porta = 3306;
-			$banco = "daw_turismo";
-			$usuario = "daw";
-			$senha = "daw2015";
+			$banco = "acsm_a4f2e3cc23d81e6";
+			$usuario = "bbb3527688511b";
+			$senha = "b4e0caaa";
 			
 			$conn = new PDO ( "mysql:host=$servidor;
                              port=$porta;
